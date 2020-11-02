@@ -10,8 +10,8 @@ const Jobs = () => {
           className="green"
           title="Space Cow-Boy"
           contractType="CDI "
-          country="U.S.A"
-          city="Far-West"
+          country="Space U.S.A"
+          city="Space Far-West"
         ></Job>
         <Job
           className="red"
