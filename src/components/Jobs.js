@@ -10,12 +10,12 @@ const Jobs = () => {
           className="green"
           title="Space Cow-Boy"
           contractType="CDI "
-          country="Ganymède"
-          city="Delmak-0"
+          country="U.S.A"
+          city="Far-West"
         ></Job>
         <Job
           className="red"
-          title="Fabricant de barres chocolatées"
+          title="Gouteur de barres chocolatées"
           contractType="Stage de 6 mois "
           country="Mars"
           city="Capital City"
@@ -30,23 +30,23 @@ const Jobs = () => {
         <Job
           className="yellow"
           title="Pied de table"
-          contractType="CDD"
+          contractType="CDD de 2 jours"
           country="Ikea"
           city="Paris"
         ></Job>
         <Job
           className="green"
-          title="Eleveur de taupes"
-          contractType="CDD"
-          country="Irlande"
-          city="Pas loin de Dublin"
+          title="Eleveur de taupes pour la C.I.A"
+          contractType=""
+          country="Informations confidentielles"
+          city="***"
         ></Job>
         <Job
           className="yellow"
           title="Chauffeur de Bus Magique"
-          contractType="Stage de 3ème"
-          country="Dans la 4eme dimension"
-          city="MagicTower City"
+          contractType="Stage découverte de 3ème"
+          country="Dans une autre dimension"
+          city="Unknown"
         ></Job>
       </div>
       <Footer></Footer>
